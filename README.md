@@ -7,3 +7,7 @@ Welcome to Python Complete Guide  your one-stop destination to master Python fro
 🔹 Step 02: Variables 🚀  
 
 🔹 Step 03: Data Types 🏷️
+
+🔹 Step 04: Operators ➕➖
+
+🔹 Step 05: Conditional Statements 🔄
