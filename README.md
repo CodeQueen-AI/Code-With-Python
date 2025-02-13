@@ -15,3 +15,5 @@ Welcome to Python Complete Guide  your one-stop destination to master Python fro
 🔹 Step 06: Syntax 📜
 
 🔹 Step 07: Comments 📝
+
+🔹 Step 08: Python features 🎯
