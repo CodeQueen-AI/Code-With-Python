@@ -23,3 +23,9 @@
 🔹 Step 10: Dictionary 🔑
 
 🔹 Step 11: Set 🧩
+
+🔹 Step 12: Type conversion and type casting 🔄
+
+🔹 Step 13: Input and Output from Users 📤
+
+🔹 Step 14: Strings and Methods 🔠
