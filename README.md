@@ -1,5 +1,5 @@
 # 🐍 Python Complete Guide 🚀
-Welcome to Python Complete Guide  your one-stop destination to master Python from basics to advanced concepts! 🎯
+🚀 Welcome to Python Mastery Hub – Your ultimate adventure to learn Python from scratch to expert level with fun and excitement! 🎉🐍
 
 # 📂 Topics Covered
 🔹 Step 01: Hello World 👋
@@ -21,3 +21,5 @@ Welcome to Python Complete Guide  your one-stop destination to master Python fro
 🔹 Step 09: List 🔍
 
 🔹 Step 10: Dictionary 🔑
+
+🔹 Step 11: Set 🧩
