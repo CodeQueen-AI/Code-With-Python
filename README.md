@@ -29,3 +29,12 @@
 🔹 Step 13: Input and Output from Users 📤
 
 🔹 Step 14: Strings and Methods 🔠
+
+🔹 Step 15: Escape Sequence ✏️
+
+🔹 Step 16: Tuple and Their Types 📦
+
+🔹 Step 17: Methods of Tuples 🔧
+
+🔹 Step 18: Access & Operators in Tuples ➕➖
+
