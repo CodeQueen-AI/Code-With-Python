@@ -38,3 +38,4 @@
 
 🔹 Step 18: Access & Operators in Tuples ➕➖
 
+🔹 Step 18: Scope 🏗
